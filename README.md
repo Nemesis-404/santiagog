@@ -1,4 +1,4 @@
-# 💻 Hola, soy [Tu Nombre o Nick] 🌈
+# 💻 Hola, soy Santiago 🌈
 
 Bienvenid@ a mi perfil de GitHub, donde combino tecnología, creatividad y un toque de orgullo.  
 Aquí encontrarás mis proyectos, documentación y recursos relacionados con desarrollo de software y servicios TI.
